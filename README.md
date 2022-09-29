@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @osoyinas
+- 👀 I’m interested in computer engineering.
+- 🌱 I’m currently learning Javascript, C and C++.
+- 📫 How to reach me: osoyinas@gmail.com.
