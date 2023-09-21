@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo Piñas</h1>
 <h3 align="center">A computer engineering student in UAH</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osoyinas&label=Profile%20views&color=0e75b6&style=flat" alt="osoyinas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osoyinas" alt="osoyinas" /></a> </p>
-
 - 🔭 I’m currently working on [a minecraft server generator](https://github.com/osoyinas/server-generator)
 
 - 🌱 I’m currently learning **React, NodeJS**
