@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pablo Piñas</h1>
-<h3 align="center">A computer engineering student in UAH</h3>
+<h3 align="center">Web developer</h3>
 
-- 🔭 I’m currently working on [a minecraft server generator](https://github.com/osoyinas/server-generator)
+- Computer Engineering
 
-- 🌱 I’m currently learning **React, NodeJS**
-
-- 💬 Ask me about **Django, python, java**
+- 💬 Ask me about **Django, React, python, java**
 
 - 📫 How to reach me **osoyinas@gmail.com**
 
