@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">Full stack developer</h3>
 
-- 🔭 Computer Engenieering at [UAH](https://www.uah.es/es/)
+- 🔭 Computer Engineering at [UAH](https://www.uah.es/es/)
 
 - 👯 I'm seeking an internship related to **Web development**
 
